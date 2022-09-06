@@ -1,0 +1,33 @@
+{
+  "name": "@ppzp/stupid",
+  "version": "0.0.0",
+  "description": "a stupid lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppz-pro/stupid.js.git"
+  },
+  "keywords": [
+    "ppz",
+    "stupid"
+  ],
+  "files": [
+    "index.js",
+    "real-string.js",
+    "README.md",
+    "CHANGELOG.md",
+    "LICENSE"
+  ],
+  "author": "gy",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/ppz-pro/stupid.js/issues"
+  },
+  "homepage": "https://github.com/ppz-pro/stupid.js#readme",
+  "devDependencies": {
+    "jest": "^29.0.2"
+  }
+}
