@@ -1,6 +1,6 @@
 {
   "name": "@ppzp/stupid",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "a stupid lib",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
     "real-string.js",
     "clone.js",
     "is-nil.js",
-    "format-date",
+    "format-date.js",
     "README.md",
     "CHANGELOG.md",
     "LICENSE"
